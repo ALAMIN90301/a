@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla", BTV
+#EXTINF:-1, BTV
 http://103.106.2.149:13456/btv_world.m3u8
-#EXTINF:-1 group-title="Bangla", ATN BANGLA
+#EXTINF:-1", ATN BANGLA
 https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla", ATN Islamic
+#EXTINF:-1, ATN Islamic
 https://bd.jagobd.com:444/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 group-title="English", Anondo Tv
+#EXTINF:-1, Anondo Tv
 https://bd.jagobd.com:444/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1, Bangla Tv
 https://bd.jagobd.com:444/live-orgin/banglatvhd.stream/chunks.m3u8
